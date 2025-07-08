@@ -1,0 +1,18 @@
+user_info:
+  email: aaa_bbb_01@gmail.com
+  password: Doppio123*
+  name: AAA
+  surname: BBB
+  shipping_address: 123 FFF rd. NY
+  phone_no: 0999999999
+
+search_info:
+  keyword: phone
+  product_name: Doppee phone
+
+payment_info:
+  channel: Credit Card
+  card_no: 4111111111111111
+  card_exp: 12/2025
+  card_cvc: 123
+  card_owner: AAA BBB

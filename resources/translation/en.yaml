@@ -1,0 +1,35 @@
+signup_translation:
+  header: Registration
+  success_msg: Register successfully
+
+login_translation:
+  btn: Login
+  success_msg: Login successfully
+
+search_translation:
+  txt_input: input search text
+
+product_detail_translation:
+  add_to_cart: Add to cart
+  success_msg: Add product successfully
+
+delivery_translation:
+  header: Delivery info
+  name: Name
+  surname: Surname
+  shipping_address: Shipping address
+  phone_no: Phone number
+  email: Email
+  btn_pay: PAY
+
+payment_translation:
+  header: Select Payment Method
+  btn_next: Next
+  btn_confirm: Confirm Payment
+  success_msg: Payment successfully
+  lbl_payment_complete: Payment Complete
+  btn_con_shopping: Continue Shopping
+
+order_detail_translation:
+  header: My Order
+  order_status_pending: Pending payment
